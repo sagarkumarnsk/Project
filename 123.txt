@@ -1,5 +1,6 @@
 hello
 123 file
+checking merge conflicts
 hi
 welcome
 merge conflicts
